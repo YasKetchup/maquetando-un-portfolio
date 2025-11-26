@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.section1 {
+  background-image: url("images/puntitos.png");
+  background-size: cover;
+  height: 616px;
+}
+
+.section1__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 68px;
+  padding: 20px;
+}
+
+.logo {
+  height: 50px;
+  width: 54px;
+}
+
+.titulo {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.foto_de_bienvenida {
+  width: 318px;
+  height: 300px;
+}
