@@ -20,13 +20,13 @@ body {
   align-items: center;
   width: 100%;
   height: 68px;
-  padding: 20px;
+  padding: 30px;
   margin-top: 10px;
 }
 
 .logo {
-  height: 50px;
-  width: 54px;
+  height: 45px;
+  width: 62px;
 }
 
 .titulo {
@@ -36,12 +36,11 @@ body {
   text-align: center;
   letter-spacing: -1px;
   line-height: 48px;
-  margin-top: 40px;
+  margin-top: 80px;
   padding: 0 42px;
 }
 
 .foto_de_bienvenida {
-  margin-top: 316px;
   height: 315px;
   width: 315px;
   position: absolute;
@@ -54,4 +53,50 @@ body {
   height: 538px;
   width: 100%;
   background-color: #141414;
+}
+
+.contenedor_section2 {
+}
+
+.section2__textos {
+  width: 100%;
+}
+
+.subtitulo {
+  padding: 0 52px;
+  height: 44px;
+  padding: 55px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  color: #fafafa;
+  font-size: 32px;
+  letter-spacing: -2px;
+  line-height: 100%;
+  text-align: center;
+}
+
+.contenedor_de_p {
+  display: flex;
+  box-sizing: border-box;
+  margin: 20px auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.p {
+  color: #fafafa;
+
+  font-family: "Roboto";
+  font-size: 16px;
+  width: 100%;
+  max-width: 312px;
+
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.section2_img {
+  display: flex;
+  justify-content: center;
+  margin-top: 57px;
 }
