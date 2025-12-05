@@ -100,3 +100,19 @@ body {
   justify-content: center;
   margin-top: 57px;
 }
+
+.section3 {
+  background-color: #fafafa;
+  width: 375px;
+  height: 1375px;
+}
+
+.contenedor_section3 {
+}
+
+.subtitulo {
+  color: #141414;
+}
+
+.img_section3 {
+}
