@@ -160,3 +160,40 @@ body {
   font-weight: 400;
   text-align: center;
 }
+
+.section4 {
+  height: 660px;
+  background-color: #141414;
+}
+
+.contenedor-formulario {
+  border: solid;
+  width: 335px;
+  height: 428px;
+  margin: auto;
+}
+
+.form {
+}
+
+.fieldset {
+  margin-bottom: 27px;
+}
+.input-nombre,
+.input-email,
+.input-mensaje {
+  height: 45px;
+  width: 100%;
+}
+
+.input-mensaje {
+  height: 113px;
+  text-align: unset;
+}
+.label {
+  display: block;
+  margin-bottom: 1em;
+  color: #fafafa;
+  font-family: "Roboto";
+}
+/* Hacer el Css del form */
