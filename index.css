@@ -70,7 +70,7 @@ body {
   font-size: 32px;
   letter-spacing: -2px;
   text-align: center;
-  padding: 50px;
+  padding: 69px;
 }
 
 .contenedor_de_p {
@@ -167,7 +167,6 @@ body {
 }
 
 .contenedor-formulario {
-  border: solid;
   width: 335px;
   height: 428px;
   margin: auto;
@@ -189,6 +188,7 @@ body {
 .input-mensaje {
   height: 113px;
   text-align: unset;
+  margin-bottom: 33px;
 }
 .label {
   display: block;
@@ -196,4 +196,13 @@ body {
   color: #fafafa;
   font-family: "Roboto";
 }
-/* Hacer el Css del form */
+
+.boton-enviar {
+  background-color: #ffd953;
+  width: 100%;
+  height: 45px;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: "Roboto";
+  border-radius: 4px;
+}
