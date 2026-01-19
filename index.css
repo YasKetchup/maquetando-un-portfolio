@@ -145,7 +145,7 @@ body {
 
 .subtitulo2_contenedor {
   width: 100%;
-  margin-top: ;
+  margin-top:;
 }
 
 .subtitulo2 {
@@ -205,4 +205,34 @@ body {
   font-size: 16px;
   font-family: "Roboto";
   border-radius: 4px;
+}
+
+.section5 {
+  height: 493px;
+  background-color: #dbdbdb;
+  width: 100%;
+}
+
+.footer {
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding: 53px;
+}
+
+.footer_contenedor_1 {
+  margin-bottom: 85px;
+  font-family: "Roboto";
+}
+
+.footer_contenedor_2 {
+  display: block;
+}
+
+.redesSociales_contenedor {
+  font-family: "Roboto";
+}
+
+span {
+  margin: 10px;
 }
