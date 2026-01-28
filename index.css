@@ -58,8 +58,9 @@ body {
 }
 @media (min-width: 769px) {
   .logo {
+    margin-top: 10px;
     height: 60px;
-    width: 78px;
+    width: 90px;
   }
 }
 
@@ -326,9 +327,33 @@ body {
   background-color: #141414;
 }
 
+@media (min-width: 769px) {
+  .contenedor_section4 {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.subtitulo4 {
+  color: #fafafa;
+  height: 44px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -2px;
+  text-align: center;
+  padding: 69px;
+}
+
+@media (min-width: 769px) {
+  .subtitulo4 {
+    font-size: 48px;
+  }
+}
+
 .contenedor-formulario {
   width: 335px;
-  height: 428px;
+  height: 469px;
   margin: auto;
 }
 
@@ -395,4 +420,8 @@ body {
 
 span {
   margin: 10px;
+}
+
+.boton-enviar {
+  height:;
 }
