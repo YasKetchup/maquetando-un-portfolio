@@ -328,9 +328,18 @@ body {
 }
 
 @media (min-width: 769px) {
+  .section4 {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 769px) {
   .contenedor_section4 {
     display: flex;
     align-items: center;
+    width: 724px;
+    margin-top: 40px;
   }
 }
 
@@ -348,6 +357,7 @@ body {
 @media (min-width: 769px) {
   .subtitulo4 {
     font-size: 48px;
+    margin-bottom: 500px;
   }
 }
 
@@ -355,6 +365,12 @@ body {
   width: 335px;
   height: 469px;
   margin: auto;
+}
+
+@media (min-width: 769px) {
+  .contenedor-formulario {
+    width: 376px;
+  }
 }
 
 .form {
